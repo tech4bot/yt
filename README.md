@@ -39,10 +39,6 @@ YYYY-MM-DD-topic/
 └── resources.md    # datasheets, references, further reading
 ```
  
-## ⚠️ Disclaimer
- 
-These scripts and commands are provided as-is, for educational purposes. Many videos involve flashing firmware, opening hardware, or modifying system software — this can void warranties or brick devices. Understand what a command does before running it, and proceed at your own risk.
- 
 ## 🔗 More from Hack Around
  
 - YouTube: [Hack Around](https://www.youtube.com/@HackAround)

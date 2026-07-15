@@ -1,6 +1,17 @@
 # Hack Around — Video Resources
  
 Companion repository for the [Hack Around](https://www.youtube.com/@HackAround) YouTube channel.
+
+## ⚠️ Disclaimer — read this first
+ 
+All commands and scripts here are meant to be safe to use, but I cannot test them on every device, OS, or configuration — so **take everything with a grain of salt**. By using anything from this repo, you accept that **I take no responsibility if something goes wrong** (bricked devices, data loss, voided warranties, broken installs, you name it).
+ 
+Before running anything:
+ 
+- **Read and understand** what a command or script actually does — don't blind copy-paste.
+- **Adapt it** to your own device, paths, and setup where needed.
+- **If you're not sure — just don't run it.** Ask first: open an [issue](../../issues), leave a comment on the video, or paste the command into an AI assistant and ask it to explain what it does.
+Many videos involve flashing firmware, opening hardware, or modifying system software. Proceed at your own risk.
  
 Every video gets its own folder containing the scripts, commands, configs, and notes shown on screen — so you can copy-paste instead of pausing and typing. If you landed here from a video description, jump straight to the folder for that video below.
  

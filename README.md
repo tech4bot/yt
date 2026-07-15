@@ -19,7 +19,7 @@ Every video gets its own folder containing the scripts, commands, configs, and n
  
 | Published | Video | Resources |
 |-----------|-------|-----------|
-| — | *coming soon* | — |
+| 2026-07-16 | [Reverse Engineering Ep.1 — Evaluating Android Devices](https://youtu.be/hV__BqoP7aE) | [📁 2026-07-16-android-re-ep1](./2026-07-16-android-re-ep1) |
  
 <!--
 Row template — copy, fill in, keep newest on top:
